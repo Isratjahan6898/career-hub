@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "logo": "https://i.ibb.co/TknPYgV/Colorful-Modern-Infinity-Creative-Studio-Logo.png",
+        "job_title": "Software Engineer",
+        "company_name": "Tech Innovations Inc.",
+        "remote_or_onsite": "Remote",
+        "location": "Anywhere",
+        "job_type": "Full-time",
+        "salary": "$80,000 - $100,000 per year",
+        "job_description": "We are seeking a talented software engineer to join our dynamic team...",
+        "job_responsibility": "Design and develop software solutions...",
+        "educational_requirement": "Bachelor's degree in Computer Science or related field",
+        "experience": "3+ years of experience in software development",
+        "contact_information": {
+          "phone": "+1 (555) 123-4567",
+          "email": "jobs@techinnovations.com",
+          "address": "123 Main St, Anytown, USA"
+        }
+      },
+      {
+        "id": 2,
+        "logo": "https://i.ibb.co/9n9w8qL/Colorful-Modern-Infinity-Creative-Studio-Logo-1.png",
+        "job_title": "Marketing Manager",
+        "company_name": "Global Marketing Solutions",
+        "remote_or_onsite": "Onsite",
+        "location": "New York, NY",
+        "job_type": "Contract",
+        "salary": "$70,000 - $90,000 per year (based on experience)",
+        "job_description": "We are looking for a skilled marketing manager to lead our marketing team...",
+        "job_responsibility": "Develop and execute marketing strategies...",
+        "educational_requirement": "Bachelor's degree in Marketing or related field",
+        "experience": "5+ years of experience in marketing",
+        "contact_information": {
+          "phone": "+1 (555) 987-6543",
+          "email": "careers@globalmarketing.com",
+          "address": "456 Broadway, Suite 200, New York, NY"
+        }
+      },
+
+      {
+        "id": 3,
+        "logo": "https://i.ibb.co/C1LM4v5/Colorful-Modern-Infinity-Creative-Studio-Logo-4.png",
+        "job_title": "Data Scientist",
+        "company_name": "DataTech Solutions",
+        "remote_or_onsite": "Remote",
+        "location": "United States",
+        "job_type": "Part-time",
+        "salary": "$50 - $70 per hour",
+        "job_description": "We are seeking an experienced data scientist to join our analytics team...",
+        "job_responsibility": "Analyze complex datasets...",
+        "educational_requirement": "Master's degree in Data Science or related field",
+        "experience": "2+ years of experience in data analysis",
+        "contact_information": {
+          "phone": "+1 (555) 876-5432",
+          "email": "careers@datatechsolutions.com",
+          "address": "789 Oak St, Anytown, USA"
+        }
+      },
+      {
+        "id": 4,
+        "logo": "https://i.ibb.co/wd1TzTP/Colorful-Modern-Infinity-Creative-Studio-Logo-5.png",
+        "job_title": "Graphic Designer",
+        "company_name": "Creative Designs Co.",
+        "remote_or_onsite": "Onsite",
+        "location": "Los Angeles, CA",
+        "job_type": "Full-time",
+        "salary": "$50,000 - $65,000 per year",
+        "job_description": "We are looking for a creative graphic designer to join our team...",
+        "job_responsibility": "Design marketing materials, logos, and branding...",
+        "educational_requirement": "Bachelor's degree in Graphic Design or related field",
+        "experience": "2+ years of experience in graphic design",
+        "contact_information": {
+          "phone": "+1 (555) 234-5678",
+          "email": "jobs@creativedesigns.com",
+          "address": "1010 Vine St, Los Angeles, CA"
+        }
+      },
+      {
+        "id": 5,
+        "logo": "https://i.ibb.co/9wQ4sBF/Colorful-Modern-Infinity-Creative-Studio-Logo-2.png",
+        "job_title": "Financial Analyst",
+        "company_name": "Finance Plus Inc.",
+        "remote_or_onsite": "Remote",
+        "location": "United States",
+        "job_type": "Full-time",
+        "salary": "$60,000 - $80,000 per year",
+        "job_description": "We are seeking a skilled financial analyst to join our finance team...",
+        "job_responsibility": "Analyze financial data...",
+        "educational_requirement": "Bachelor's degree in Finance or related field",
+        "experience": "3+ years of experience in financial analysis",
+        "contact_information": {
+          "phone": "+1 (555) 345-6789",
+          "email": "careers@financeplus.com",
+          "address": "555 Elm St, Anytown, USA"
+        }
+      },
+
+      {
+        "id": 6,
+        "logo": "https://i.ibb.co/nDSRc4Q/Colorful-Modern-Infinity-Creative-Studio-Logo-3.png",
+        "job_title": "Customer Service Representative",
+        "company_name": "Service Solutions LLC",
+        "remote_or_onsite": "Onsite",
+        "location": "Chicago, IL",
+        "job_type": "Full-time",
+        "salary": "$35,000 - $45,000 per year",
+        "job_description": "We are seeking friendly and enthusiastic individuals to join our customer service team...",
+        "job_responsibility": "Assist customers with inquiries and issues...",
+        "educational_requirement": "High school diploma or equivalent",
+        "experience": "1+ years of experience in customer service preferred",
+        "contact_information": {
+          "phone": "+1 (555) 456-7890",
+          "email": "jobs@servicesolutions.com",
+          "address": "123 State St, Suite 300, Chicago, IL"
+        }
+      }
+      
+      
+      
+      
+      
+      
+]
